@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../OneDrive/デスクトップ/intern-frontend-test-level1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "intern-frontend-test-level-1"
+	}
+}
